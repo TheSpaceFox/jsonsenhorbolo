@@ -4,19 +4,19 @@
         "category": "Bolo doce",
         "image": "brigadeiro.png",
         "price": 12.0
-    }
+    },
     {
         "name": "Formigueiro",
         "category": "Bolo doce",
         "image": "formigueiro.png",
         "price": 12.0
-    }
+    },
     {
         "name": "Bolo de nada",
         "category": "Bolo doce",
         "image": "bolo_nada.png",
         "price": 12.0
-    }
+    },
     {
         "name": "Laranja",
         "category": "Bolo doce",
