@@ -97,12 +97,6 @@
             "preco": 15
         },
         {
-            "nome": "Maça com nozes",
-            "categoria": "Bolo tradicional",
-            "imagem": "maca_com_nozes.png",
-            "preco": 15
-        },
-        {
             "nome": "Maça",
             "categoria": "Bolo tradicional",
             "imagem": "maca_com_granola.png",
